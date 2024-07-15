@@ -1,0 +1,10 @@
+Donald Knuth
+0111
+Dennis Ritchie
+0554
+Alan Turing
+4532
+Grace Hopper
+2222
+Ada Lovelace
+4464
