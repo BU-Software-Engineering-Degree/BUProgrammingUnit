@@ -1,0 +1,50 @@
+SavingsAccountJUnitTests
+=============================
+Run: 8 Dec 2023 11:29:19 GMT
+
+Tests Summary
+=============================
+Tests Run: 5
+Tests Successful: 5
+Tests Failed: 0
+
+Marks Summary
+=============================
+Marks Available: 8
+Marks Gained: 8
+
+
+Test Results
+=============================
+Test 1: testSavingsAccountToString(): Pass - 1702034959116
+--
+Test 2: testSavingsAccountAnnualReturn(): Pass - 1702034959116
+--
+Test 3: testSavingsAccountInterestSetter(): Pass - 1702034959115
+--
+Test 4: testSavingsAccountMonthlyReturn(): Pass - 1702034959117
+--
+Test 5: testSavingsAccountGetters(): Pass - 1702034959114
+
+
+Test Marks
+=============================
+Test 1: testSavingsAccountToString(): 
+		Marks Available: 2
+		Marks Gained: 2
+--
+Test 2: testSavingsAccountAnnualReturn(): 
+		Marks Available: 1
+		Marks Gained: 1
+--
+Test 3: testSavingsAccountInterestSetter(): 
+		Marks Available: 2
+		Marks Gained: 2
+--
+Test 4: testSavingsAccountMonthlyReturn(): 
+		Marks Available: 1
+		Marks Gained: 1
+--
+Test 5: testSavingsAccountGetters(): 
+		Marks Available: 2
+		Marks Gained: 2
